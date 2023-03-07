@@ -5,7 +5,7 @@ description: Learn about best practices for the implementation phases of Adobe C
 
 # Implementation best practices
 
-There are many ways to implement an Adobe Commerce project. The best practices provided in this section describe the way Adobe expects customers and partners to implement specific use cases. These recommendations are designed to help prevent common problems and potential issues related to site configuration and customization, deployment, operations, performance, and upgrades.
+There are many ways to implement an Adobe Commerce project. The best practices provided in this section describe the way Adobe expects customers and partners to implement specific use cases. These recommendations are designed to help prevent common problems and potential issues related to site configuration and customization, deployment, operations, performance, and upgrades. This is a test.
 
 These best practices are organized by implementation phase so you can find the recommendations that apply to your use case.
 
